@@ -1,0 +1,5 @@
+__pycache__/
+database_data.txt
+env/
+s.sh
+sql_scripts/
